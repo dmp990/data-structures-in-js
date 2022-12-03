@@ -18,3 +18,9 @@ In this sprint, I implemented, as part of a bootcamp, the following data structu
 
 - Each data structure **must** have it's own test file and be implemented using TDD.
 - You must **not** use JavaScript arrays or any array methods or properties to implement your stack and queue structures. Everything should be implemented with _objects_ and custom methods.
+
+### **TODO:**
+
+- Linked List
+- Trees
+- Graphs
